@@ -1,0 +1,180 @@
+Patient ID: UMMY123456
+Name: FOO KOO WEI
+Age: 20
+Address: 33, JALAN BUKIT, TAMAN A, 41200 KLANG, SELANGOR
+Doctor's name: Dr Elvin
+Diagnosis report: GOOD
+Status: inpatient
+Consultation date: 02/12/2020
+
+Patient ID: UMMY123455
+Name: ELVIN
+Age: 12
+Address: 33, JALAN TAMI, TAMAN ANGIN, 41200 KLANG, SELANGOR
+Doctor's name: Dr Kabilan
+Diagnosis report: fine
+Status: inpatient
+Consultation date: 02/11/2020
+
+Patient ID: UMMY123444
+Name: HWAI JUN
+Age: 32
+Address: 33, JALAN BUKIT, TAMAN SUNGAI, 41200 Klang, Selangor
+Doctor's name: Dr Foo Koo Wei
+Diagnosis report: good
+Status: inpatient
+Consultation date: 11/11/2021
+
+Patient ID: UMMY123444
+Name: KABILAN
+Age: 20
+Address: 32, Jalan A, Taman B, 41200 Klang, Selangor
+Doctor's name: Dr Lau Hwai Jun
+Diagnosis report: cough
+Status: inpatient
+Consultation date: 02/03/2020
+
+Patient ID: UMMY123333
+Name: LOGEN
+Age: 32
+Address: 12, Jalan tanah, Taman C, 41200 Klang, Selangor
+Doctor's name: Dr Logan
+Diagnosis report: flu
+Status: outpatient
+Consultation date: 31/03/2020
+
+Patient ID: UMMY323232
+Name: TAN AH TAN
+Age: 31
+Address: 32, Jalan Bukit, Taman AB, 41200 Klang, Selangor
+Doctor's name: Dr Elvin
+Diagnosis report: good
+Status: outpatient
+Consultation date: 06/07/2021
+
+Patient ID: UMMY123123
+Name: JOHN TAN
+Age: 32
+Address: 67, Jalan Api, Taman ABC, 41200 Klang, Selangor
+Doctor's name: Dr Kabilan
+Diagnosis report: heart attack
+Status: inpatient
+Consultation date: 02/06/2021
+
+Patient ID: UMMY333333
+Name: ZERN GAN
+Age: 45
+Address: 56, Jalan Air, Taman Sungai, 41200 Klang, Selangor
+Doctor's name: Dr Foo Koo Wei
+Diagnosis report: high blood pressure
+Status: inpatient
+Consultation date: 07/08/2020
+
+Patient ID: UMMY123321
+Name: TING CHENG MENG
+Age: 14
+Address: 11, Jalan 31, Taman 93, 41000 Klang, Selangor
+Doctor's name: Dr Lau Hwai Jun
+Diagnosis report: cough
+Status: outpatient
+Consultation date: 04/04/2021
+
+Patient ID: UMMY888888
+Name: FINEAS TAN OH KAY
+Age: 21
+Address: 43, Jalan Sunagai, Taman Apian, 41000 Klang, Selangor
+Doctor's name: Dr Logan
+Diagnosis report: headache
+Status: inpatient
+Consultation date: 09/09/2020
+
+Patient ID: UMMY111333
+Name: LENG BO XUAN
+Age: 44
+Address: 67, Jalan Ape, Taman Monyet, 41200 Klang, Selangor
+Doctor's name: Dr Elvin
+Diagnosis report: cough
+Status: inpatient
+Consultation date: 02/12/2020
+
+Patient ID: UMMY123122
+Name: ZACK FONG KI LIANG
+Age: 33
+Address: 2, Jalan Sampai, Taman Kita, 41200 Klang, Selangor
+Doctor's name: Dr Kabilan
+Diagnosis report: headache
+Status: inpatient
+Consultation date: 11/11/2019
+
+Patient ID: UMMY111223
+Name: JACK TAN ZHENG SHENG
+Age: 22
+Address: 39, Jalan Apian, Taman Sungai, 41200 Klang, Selangor
+Doctor's name: Dr Foo Koo Wei
+Diagnosis report: good
+Status: outpatient
+Consultation date: 04/05/2019
+
+Patient ID: UMMY112323
+Name: FOK LANG KOK
+Age: 45
+Address: 76, Jalan King, Taman Kong, 41200 Klang, Selangor
+Doctor's name: Dr Lau Hwai Jun
+Diagnosis report: good
+Status: outpatient
+Consultation date: 09/12/2020
+
+Patient ID: UMMY113255
+Name: FOK LANG KOK
+Age: 67
+Address: 33, Jalan OLD, Taman Muda, 41200 Klang, Selangor
+Doctor's name: Dr Logan
+Diagnosis report: heart attack
+Status: inpatient
+Consultation date: 02/12/2020
+
+Patient ID: UMMY334553
+Name: YU LI KIANG
+Age: 56
+Address: 37, Jalan Taman, Taman Jalan, 41200 Klang, Selangor
+Doctor's name: Dr Elvin
+Diagnosis report: cough
+Status: outpatient
+Consultation date: 09/11/2020
+
+Patient ID: UMMY777666
+Name: FOK JUN WAH
+Age: 12
+Address: 12, Jalan Muda, Taman Old, 41000 Klang, Selangor
+Doctor's name: Dr Kabilan
+Diagnosis report: flu
+Status: outpatient
+Consultation date: 06/06/2020
+
+Patient ID: UMMY777888
+Name: FOO KEK CHO
+Age: 87
+Address: 39, Jalan Tanah, Taman Tanih, 41000 Klang, Selangor
+Doctor's name: Dr Foo Koo Wei
+Diagnosis report: FLu
+Status: outpatient
+Consultation date: 09/12/2020
+
+Patient ID: UMMY666666
+Name: KABIL
+Age: 76
+Address: 38, Jalan Tanim, Taman Sungai, 41000 Klang, Selangor
+Doctor's name: Dr Lau Hwai Jun
+Diagnosis report: flu
+Status: outpatient
+Consultation date: 07/02/2020
+
+Patient ID: UMMY777909
+Name: TAN SI KI
+Age: 67
+Address: 34, Jalan Mami, Taman Papa, 41200 Klang, Selangor
+Doctor's name: Dr Logan
+Diagnosis report: good
+Status: outpatient
+Consultation date: 06/11/2020
+
